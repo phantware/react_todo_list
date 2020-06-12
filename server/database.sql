@@ -1,6 +1,8 @@
-CREATE DATABASE perntodo;
+` 
+create database perntodo`;
 
-CREATE TABLE todo(
+` CREATE TABLE todo(
   todo_id SERIAl PRIMARY KEY,
-  description VARCHAR(255) NOT NULL,
-);
+  description VARCHAR(255) NOT NULL
+)
+`;
